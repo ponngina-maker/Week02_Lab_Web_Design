@@ -1,0 +1,27 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+#container1, #container2, #container3 {
+    padding: 20px;
+    margin: 30px 100px 30px 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: white;
+}
+#btt1, #btt2, #btt3 {
+    border-radius: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+#btt1{
+    background-color: darkgreen;
+    color: white;
+}
+#btt2{
+    background-color: gold;
+}
+#btt3{
+    background-color: purple;
+    color: white;
+}
